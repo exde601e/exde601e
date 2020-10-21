@@ -3,9 +3,9 @@
 	.st0{fill:none;stroke:#231F20;stroke-width:0.3299;}
 	.st1{fill:#231F20;}
 	.st2{font-family:'Segoe UI','Helvetica Neue',sans-serif;}
-	.st3{font-size:12px;}
+	.st3{font-size:10px;}
 	.st4{font-family:'Segoe UI','Helvetica Neue',sans-serif; font-weight:bold;}
-	.st5{font-size:14px;}
+	.st5{font-size:12px;}
 	.st6{fill:#9D0B0F;}
 	.st7{fill:#005E7F;}
 	.st8{fill:#DF897C;}
@@ -17,7 +17,7 @@
 	.st14{fill:none;stroke:#529DBA;stroke-width:2.0208;stroke-miterlimit:10;}
 	.st15{fill:none;stroke:#9CCDE4;stroke-width:2.0208;stroke-linecap:round;stroke-linejoin:round;}
 	.st16{fill:none;stroke:#005E7F;stroke-width:2.0208;stroke-linecap:round;stroke-linejoin:round;}
-	.st17{font-size:15px;}
+	.st17{font-size:14px;}
 	.st18{fill:none;stroke:#C4161C;stroke-width:2.0208;stroke-linecap:round;stroke-linejoin:round;}
 </style>
 <line class="st0" x1="88.7" y1="177.4" x2="88.7" y2="186.5"></line>
